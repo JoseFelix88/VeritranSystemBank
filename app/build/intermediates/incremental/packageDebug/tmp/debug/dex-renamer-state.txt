@@ -1,0 +1,4 @@
+#Sat Mar 28 17:20:50 COT 2020
+base.0=C\:\\Users\\Thaliana\\AndroidStudioProjects\\VeritranSingleBankApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
