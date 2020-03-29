@@ -1,0 +1,7 @@
+com\veritran\system\single\bank\commons\dto\DepositoDTO.class
+com\veritran\system\single\bank\commons\App.class
+com\veritran\system\single\bank\commons\util\FechaUtil.class
+com\veritran\system\single\bank\commons\enums\FuncionalidadEnum.class
+com\veritran\system\single\bank\commons\service\DepositoService.class
+com\veritran\system\single\bank\commons\service\impl\DepositoServiceImpl.class
+com\veritran\system\single\bank\commons\util\CambiaFormatoNumero.class
